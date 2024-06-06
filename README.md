@@ -18,7 +18,7 @@ Apply database migrations
 ```bash
 python manage.py migrate
 ```
-Inicie o servidor
+Run server
 ```bash
 python manage.py runserver
 ```
