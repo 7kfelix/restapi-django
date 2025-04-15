@@ -8,7 +8,7 @@ A simple CRUD code with GET, POST, PATCH, and DELETE. You can write a username, 
 
 Clone the repository
 ```bash
-git clone https://github.com/7kfelix/codeleap-test
+git clone https://github.com/7kfelix/restapi-django
 ```
 Install the depedencies
 ```bash
